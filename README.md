@@ -1,2 +1,2 @@
-# Taller-data-science.
+# Taller-data-science
 Primer Taller Git-Git-Hub
