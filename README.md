@@ -1,4 +1,1 @@
-# Taller-data-science
-Primer Taller Git-Git-Hub
-Integrante1(Cristian Santiago Gonzalez Castro - 1053325824)
-Integrante2(Brayan Duvan Benitez Castillo - 105369696969)
+Se crea este repositorio para el taller practico del modulo 1 de analisis de datos - UNISANGIL
