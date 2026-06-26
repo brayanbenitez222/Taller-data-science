@@ -1,7 +1,7 @@
 # Taller-data-science
 Primer Taller Git-Git-Hub
   
-  Rama usuario
+  rama2-Santiago
 Integrante1(Cristian Santiago Gonzalez Castro - 1053325824)  
 
   
